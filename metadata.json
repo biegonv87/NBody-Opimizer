@@ -1,0 +1,6 @@
+{
+  "name": "N-Body Simulation Optimizer - Assignment 3",
+  "description": "High-performance optimization and interactive benchmark studio for N-body planetary simulation in Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
